@@ -46,7 +46,7 @@ image-processing-api/
 Clone the repo and install dependencies:
 
 ```bash
-git clone <the repo link>
+git clone https://github.com/AmrQamhieh/image-processing-api
 cd image-processing-api
 npm install
 ```
