@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "rootDir": "src",
+    "outDir": "dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "skipLibCheck": true,
+    "verbatimModuleSyntax": false,
+    "types": ["node", "jasmine"]
+  },
+  "include": ["src"],
+  "exclude": ["tests"]
+}
