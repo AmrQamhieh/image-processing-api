@@ -17,7 +17,7 @@ Built for Udacity’s Full Stack JavaScript Nanodegree.
 ## Project Structure
 
 ```
-Image-processing-API U_P/
+image-processing-api
 ├─ assets/
 │  ├─ source/
 │  └─ cache/
